@@ -37,10 +37,8 @@ build
 ipch
 *.sdf
 *.opensdf
-*.suo
 *.vcxproj
 *.vcxproj.filters
-*.sln
 *.tlog
 *.idb
 *.db
