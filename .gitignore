@@ -31,21 +31,5 @@
 *.out
 *.app
 
-
-# VS stuff
-build
-ipch
-*.sdf
-*.opensdf
-*.vcxproj
-*.vcxproj.filters
+*.ipch
 *.tlog
-*.idb
-*.db
-*.opendb
-*.db-shm
-*.db-wal
-*.xml
-*.pch
-*.codeanalysisast
-*.db
