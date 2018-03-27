@@ -33,3 +33,5 @@
 
 *.ipch
 *.tlog
+/.vs/CPP_Basic/v15/Browse.VC.db
+/chap01/.vs/chap01/v15/Browse.VC.opendb
